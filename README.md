@@ -2,7 +2,7 @@ Gustavo Soares
 
 Hi, Devs!
 
-- 🔭 Atualmente não estou trabalhando (mas estou ansioso para pôr logo em prática o que estou aprendendo).
+- 🔭 Atualmente não trabalho na área de TI, mas estou empolgado para pôr logo em prática o que estou aprendendo.
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e React.
 - 👯 Estou procurando colaborar em empresas de tecnologia. 
 - 📫 Como entrar em contato comigo: linkedin: https://www.linkedin.com/in/gustavosoaresnascimento/
